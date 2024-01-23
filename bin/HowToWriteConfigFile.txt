@@ -1,0 +1,14 @@
+* =======================================
+*        M-CORR CONFIGURATION FILE
+* =======================================
+*
+* This file will be imported ad used in M-CORR routines by
+* the function 'mcorr_scaffold_readcfg.m'.
+*
+* Config file should be in the form
+* varname1 value1
+* varname2 value2
+*
+* CFG structure will be:
+* CFG.varname1.value1
+* CFG.varname2.value2
