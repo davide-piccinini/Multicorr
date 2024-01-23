@@ -11,6 +11,3 @@ and can be run everywhere in the system. The `bin` folder
 contains all the necessary scripts to run the program.
 Just type `help mcorr` for a reference.
 
-Currently under development under the DEVELOP branch.
-The `main` branch will be used only for releases
-
